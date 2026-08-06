@@ -1,2 +1,2 @@
 # AI-Research-Prompt-Engineering
-Self study for Wegro internshi
+Self study for Wegro internship
